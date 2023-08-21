@@ -103,7 +103,7 @@ Through this repository, we hope to share our passion for music and innovation w
 <br>
 ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ ᴀʟᴇxᴀ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @ITZ-ZAID
         
-<p><a href="https://my.scalingo.com/deploy?template=https://github.com/TheTeamAlexa/AlexaMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p><a href="https://my.scalingo.com/deploy?template=https://github.com/maharchtects/Telethon-Music"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
 
 <summary><b>sᴛʀɪɴɢ sᴇssɪᴏɴ</b></summary>
 <br>
